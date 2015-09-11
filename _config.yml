@@ -7,7 +7,7 @@ title: "Tom.TH_Lin's blog"
 subtitle: "sub"
 description:
 author: Tom.TH_Lin
-language: zh-tw
+language: en
 email: tomroy123@gmail.com
 timezone:
 
@@ -27,7 +27,14 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-avatar: /uploads/1007750.jpeg
+
+# Sidebar profile pic
+avatar: /uploads/round.png
+
+# Sidebar social links
+social:
+ LinkedIn: https://tw.linkedin.com/in/tomthlin
+ GitHub: https://github.com/tomroy
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -56,6 +63,9 @@ tag_map:
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
+
+#站點建立時間
+since: 2015
 
 # Pagination
 ## Set per_page to 0 to disable pagination
