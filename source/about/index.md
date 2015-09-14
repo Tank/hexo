@@ -16,10 +16,5 @@ Specialties: Software development, design patterns, Object-oriented programming,
 Languages: Java, C#, C++, Python, Javascript; proficient in Java; experience with Jenkins, CI, NoSQL, MongoDB, AWS, XMPP connection, HTML, Javascript;
 Familiar using Git in a team environment.
 
-[![linkedinPic](/uploads/linkedin_icon.png)](https://tw.linkedin.com/in/tomthlin)[**LinkedIn**](https://tw.linkedin.com/in/tomthlin)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHubPic](/uploads/github_icon.png)](https://github.com/tomroy)[**GitHub**](https://github.com/tomroy)
-
-<!-- <a href="https://tw.linkedin.com/in/tomthlin"><img src="/uploads/linkedin_icon.png" alt="linkedinPic" width="50" height="50" style="float:left"></a><a href="https://github.com/tomroy"><img src="/uploads/github_icon.png" alt="GitHubPic" width="50" height="50" style="float:left"></a> -->
-
-<!-- |[![linkedinPic](/uploads/linkedin_icon.png)](https://tw.linkedin.com/in/tomthlin)|[**LinkedIn**](https://tw.linkedin.com/in/tomthlin)|
-|-|-|
-|[![GitHubPic](/uploads/github_icon.png)](https://github.com/tomroy)|[**GitHub**](https://github.com/tomroy)| -->
+<!-- [![linkedinPic](/uploads/linkedin_icon.png)](https://tw.linkedin.com/in/tomthlin)[**LinkedIn**](https://tw.linkedin.com/in/tomthlin)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHubPic](/uploads/github_icon.png)](https://github.com/tomroy)[**GitHub**](https://github.com/tomroy) -->
+<a href="https://tw.linkedin.com/in/tomthlin" target="_blank" rel="external" style="display: inline-block; text-align: center; margin-right: 20px;"><img src="/uploads/linkedin_icon.png" alt="linkedinPic" style="margin: 0 auto;"><strong>LinkedIn</strong></a><a href="https://github.com/tomroy" target="_blank" rel="external" style="display: inline-block; text-align: center; margin-right: 10px;"><img src="/uploads/github_icon.png" alt="GitHubPic" style="margin: 0 auto;"><strong>GitHub</strong></a>
