@@ -1,8 +1,10 @@
 title: 使用Hexo在GitHub Pages上架設自己的Blog
 date: 2015-09-11 22:33:02
+categories:
+- Hexo
 tags: 
-- hexo
-- github
+- Hexo
+- GitHub
 ---
 ## 什麼是 Hexo
 簡單介紹一下 Hexo ，引用 [Hexo](https://hexo.io/zh-tw) 官方網站上面的一句話
