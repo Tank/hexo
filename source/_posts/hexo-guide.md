@@ -32,17 +32,17 @@ tags:
 - [Git](http://git-scm.com/)
 
 如果你的電腦已經安裝上述的必備軟體，那麼只需要透過 npm 可以完成 Hexo 的安裝。若還沒安裝好請先從上面連結點進去下載吧。
-```
+```bash
     $ npm install -g hexo-cli
 ```
 一旦 Hexo 安裝完成後，隨便切換到自己想要放blog的資料夾，執行下列指令，Hexo 就會在指定資料夾中建立所有搭建 blog 需要的檔案。
-```
+```bash
     $ hexo init <folder> # 建立一個新的網站。如果沒有設定 folder 的話，Hexo 會在目前的資料夾建立網站。這裡我們把 folder 取名為 Blog
     $ cd <folder>
     $ npm install
 ```
 建立完成後，專案資料夾會有下列檔案：
-```
+```bash
     .
     ├── _config.yml
     ├── package.json
@@ -54,7 +54,7 @@ tags:
     └── themes
 ```
 每個資料夾的詳細說明再請自己點進去官方網站的[設定](https://hexo.io/docs/setup.html)裡面看囉。
-```
+```bash
     $ hexo g # hexo generate 產生靜態檔案。
     $ hexo s # hexo server 啟動伺服器。
     # Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
@@ -63,11 +63,11 @@ tags:
 現在我們已經建好本機端的 blog 了，用瀏覽器輸入 [http://localhost:4000](http://localhost:4000) 或是 [http://127.0.0.1:4000](http://127.0.0.1:4000) 就可以看到你的 blog 了。
 ## 把 Blog 放到 GitHub 上
 請先用下面指令安裝 [hexo-deployer-git](https://github.com/hexojs/hexo-deployer-git) .
-```
+```bash
     $ npm install hexo-deployer-git --save
 ```
 再來先在 GitHub 上開一個 repository ，取名叫 Blog 後，將該 repository 的 HTTPS clone URL 複製後，打開本地端 Blog 中的 _config.yml ， 在  deploy: 下面，type 輸入 git，repository 就把剛剛複製的HTTPS clone URL專案路徑貼在這裡，ssh 或https都可以， branch 填 master  最後會長成像以下這個樣子
-```
+```bash
     deploy:
         type: git
         repository: git@github.com:username/yourRepo.git
@@ -79,11 +79,11 @@ yourRepo : 你剛剛個取的 repo 的名字
 關於更詳細的設定請參考 [deploy](https://hexo.io/docs/deployment.html#Git) 。
 
 接下來只要再回到 console 輸入
-```
+```bash
     $ hexo d # hexo deploy 部署網站(到GitHub上)。
 ```
 或是把部署跟產生頁面合成一條指令，下面兩個指令作用是相同的。
-```
+```bash
     $ hexo d -g # hexo deploy --generate
     $ hexo g -d # hexo generate --deploy
 ```
