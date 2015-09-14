@@ -36,6 +36,9 @@ social:
  LinkedIn: https://tw.linkedin.com/in/tomthlin
  GitHub: https://github.com/tomroy
 
+#google_analytics
+google_analytics: UA-67549550-1
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
