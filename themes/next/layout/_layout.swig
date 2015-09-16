@@ -1,6 +1,7 @@
 <!doctype html>
 <html class="theme-next {% if theme.use_motion %}use-motion{% endif %} {% if theme.scheme %}theme-next-{{ theme.scheme | lower }}{% endif %}">
 <head>
+  <meta name="google-site-verification" content="ToB2BG9Jy4HUbvlkqedI8bKCsbbKLpJ9rRdN-Y8mTfQ" />
   {% include '_partials/head.swig' %}
   <title>{% block title %}{% endblock %}</title>
 </head>
