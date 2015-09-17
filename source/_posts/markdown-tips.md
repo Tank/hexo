@@ -22,7 +22,9 @@ Hello! We have&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 halfwidth spaces here.
 執行結果如下：
 > 哈囉！這邊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有五個半形空白。
 > Hello! We have&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 halfwidth spaces here.
+
 <!--more-->
+
 ## 全形空白(Fullwidth space)
 ```Markdown
 哈囉！這邊&emsp;&emsp;&emsp;&emsp;&emsp;有五個全形空白。
