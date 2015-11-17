@@ -20,7 +20,7 @@ sudo yum install nginx php php-fpm
 Completed! the installation was pretty easy, but the configuration was annoying. 
 
 Put your `index.php` and all web files to the default Nginx path:
-把你的`ndex.php`跟其他網站檔案放到 Nginx 預設的路徑底下:
+把你的`index.php`跟其他網站檔案放到 Nginx 預設的路徑底下:
 ```sh
 /usr/share/nginx/html/index.php
 ```
