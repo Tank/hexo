@@ -5,7 +5,7 @@ updated: 2015-10-27 16:56:01
 
 # About Ting-Hui (Tom) Lin 林庭輝
 ---
-<table style="width:100%"><tr><td> <img src="http://tomroy.github.io/uploads/round.png" alt="Smiley face"> </img> </td><td> My name is Ting-Hui (Tom) Lin 林庭輝 and I am a graduate of National Taiwan University class of 2011 and got my master degree in 2014. I graduated with majors in Civil Engineering (B.S) and Computer Aided Engineering Group in Civil Engineering (M.S.).
+<!-- <table style="width:100%"><tr><td> <img src="http://tomroy.github.io/uploads/round.png" alt="Smiley face"> </img> </td><td> My name is Ting-Hui (Tom) Lin 林庭輝 and I am a graduate of National Taiwan University class of 2011 and got my master degree in 2014. I graduated with majors in Civil Engineering (B.S) and Computer Aided Engineering Group in Civil Engineering (M.S.). -->
 
 I am currently working as a Software Development Engineer at HTC. Specifically I work on the push notification service, whose mission is to help mobile apps send out notifications to clients(mobile devices) via different providers(GCM, Baidu, APNs) through our service. Currently has about 20 million data in DB. Experience with developing Large Distributed System(High Availability, Scalability, Load Balance, Message Queue) on AWS. Collaborating with others on company's gitlab on daily basis.
 
